@@ -74,10 +74,6 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 <p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
