@@ -22,7 +22,7 @@
     <p><strong>Email ID:</strong> manikantagfsd@gmail.com </p>
     <p><strong>College Name:</strong> Rajiv Gandhi University of Knowledge Technologies </p>
     <p><strong>Branch/Specialization :</strong> Computer Science and Engineering</p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>College ID:</strong> S210324 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
