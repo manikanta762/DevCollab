@@ -33,14 +33,14 @@
     <p><strong>Instructor Name:</strong> Akshara </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> </p>
+    <p><strong>Duration:</strong> Oct 25 - Apr 26  </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
+<p><strong>Trainer Name:</strong> A Akshara</p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
 <p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
 
