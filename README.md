@@ -29,11 +29,11 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Full Stack Development </p>
+    <p><strong>Instructor Name:</strong> Akshara </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -136,7 +136,6 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img src="https://github.com/manikanta762/DevCollab/blob/main/img%203.jpeg" alt="Community Service Photo 1" width="30%">
