@@ -105,7 +105,7 @@ LST and SST sessions helped me improve my communication, confidence, and persona
 During my internship period, I actively participated in multiple community-oriented activities that enhanced my teamwork, communication, and problem-solving skills. I collaborated with peers, contributed to group discussions, and supported knowledge-sharing initiatives. These experiences helped me understand the importance of collaboration and social responsibility in a professional environment.
 
 ### **Activities Involved**
- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement in my Village(Palakhandyam).
+- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement in my Village(Palakhandyam).
 
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed in Srikakulam.
 
