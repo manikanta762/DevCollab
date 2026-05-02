@@ -63,10 +63,9 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+> _During this course, I developed a strong foundation in Full Stack Development (FSD). I gained practical experience in building web applications using HTML, CSS, JavaScript, and backend technologies. I learned how to design responsive user interfaces, manage databases, and implement authentication systems.
+
+I also improved my ability to solve real-world problems, work collaboratively in teams, and follow proper project documentation practices. Through hands-on projects like DevCollab, I understood the complete development lifecycle—from planning and designing to deployment
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
