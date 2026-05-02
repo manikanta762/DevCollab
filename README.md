@@ -29,11 +29,11 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> Full Stack Development </p>
-    <p><strong>Instructor Name:</strong> Akshara </p>
+    <p><strong>Course Opted:</strong> Full Stack Web Development </p>
+    <p><strong>Instructor Name:</strong> A Akshara </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> Oct 25 - Apr 26  </p>
+    <p><strong>Duration:</strong> Six Months  </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -41,8 +41,8 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> A Akshara</p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Email ID:</strong>akshararajan26@gmail.com</p>
+<p><strong>Trainer Designation:</strong> Software Developer at Propel Technology</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -90,10 +90,12 @@ I also improved my ability to solve real-world problems, work collaboratively in
 
 
 ## **References**
-
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+1. Collaboration Tool – https://en.wikipedia.org/wiki/Collaboration_tool  
+2. GitHub – https://github.com/  
+3. TechTarget – Developer Collaboration Tools  
+4. Devpost – DevCollab Project  
+5. GeeksforGeeks – Collaboration Tools  
+6. Phabricator – https://phacility.com/phabricator/  
 
 
 ## **Learnings from LST and SST**
