@@ -62,8 +62,7 @@
 
 
 ## Overall Learning 
-
-> _During this course, I developed a strong foundation in Full Stack Development (FSD). I gained practical experience in building web applications using HTML, CSS, JavaScript, and backend technologies. I learned how to design responsive user interfaces, manage databases, and implement authentication systems.
+During this course, I developed a strong foundation in Full Stack Development (FSD). I gained practical experience in building web applications using HTML, CSS, JavaScript, and backend technologies. I learned how to design responsive user interfaces, manage databases, and implement authentication systems.
 
 I also improved my ability to solve real-world problems, work collaboratively in teams, and follow proper project documentation practices. Through hands-on projects like DevCollab, I understood the complete development lifecycle—from planning and designing to deployment
 
