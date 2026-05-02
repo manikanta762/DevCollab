@@ -82,7 +82,7 @@ I also improved my ability to solve real-world problems, work collaboratively in
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="https://github.com/manikanta762/DevCollab/blob/main/Sure%20Trust%20major%20project%20documentation.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/manikanta762/DevCollab/blob/main/Devcollab.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
