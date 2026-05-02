@@ -72,7 +72,6 @@ I also improved my ability to solve real-world problems, work collaboratively in
 
 <p><strong><a href="#project1">Project 1:</a></strong> DevCollab – Developer Collaboration & Project Marketplace</p>
 
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
