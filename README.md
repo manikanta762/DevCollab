@@ -90,12 +90,11 @@ I also improved my ability to solve real-world problems, work collaboratively in
 
 
 ## **References**
-1. Collaboration Tool – https://en.wikipedia.org/wiki/Collaboration_tool  
+1. Collaboration Tool – https://en.wikipedia.org/wiki/Collaboration_tool 
 2. GitHub – https://github.com/  
 3. TechTarget – Developer Collaboration Tools  
 4. Devpost – DevCollab Project  
 5. GeeksforGeeks – Collaboration Tools  
-6. Phabricator – https://phacility.com/phabricator/  
 
 
 ## **Learnings from LST and SST**
@@ -103,10 +102,7 @@ I also improved my ability to solve real-world problems, work collaboratively in
 LST and SST sessions helped me improve my communication, confidence, and personality.I learned teamwork, leadership, time management, and problem-solving skills.These sessions prepared me for placements by enhancing my professional behavior and interview skills.
 
 ## **Community Services**
-
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I actively participated in multiple community-oriented activities that enhanced my teamwork, communication, and problem-solving skills. I collaborated with peers, contributed to group discussions, and supported knowledge-sharing initiatives. These experiences helped me understand the importance of collaboration and social responsibility in a professional environment.
 
 ### **Activities Involved**
 <!-- add the location where you given -->
