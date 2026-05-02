@@ -142,8 +142,8 @@ The internship certificate serves as an official acknowledgment of the successfu
 ---
 
 ## **Acknowledgments**
--[Akshara A](https://www.linkedin.com/in/akshara-a),Software Developer and Trainer at -[SURE ProEd] (https://www.suretrustforruralyouth.com/)
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+- [Akshara A](https://www.linkedin.com/in/akshara-a),Software Developer and Trainer at -[SURE ProEd](https://www.suretrustforruralyouth.com/).
+
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
