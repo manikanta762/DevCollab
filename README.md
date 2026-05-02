@@ -77,7 +77,7 @@ I also improved my ability to solve real-world problems, work collaboratively in
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: DevCollab – Developer Collaboration & Project Marketplace</h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
   It focused on understanding requirements, creating structured code, and implementing key features.
