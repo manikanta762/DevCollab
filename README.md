@@ -98,10 +98,7 @@ I also improved my ability to solve real-world problems, work collaboratively in
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+LST and SST sessions helped me improve my communication, confidence, and personality.I learned teamwork, leadership, time management, and problem-solving skills.These sessions prepared me for placements by enhancing my professional behavior and interview skills.
 
 ## **Community Services**
 
